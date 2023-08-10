@@ -1,0 +1,15 @@
+location - cmd
+
+in cmd - git init next  git status 
+
+to sent file from working directory(W.D) ->staging we use "add"(only one file)
+
+to sent file from  staging directory ->  local directory(L.D) we use "commit"(entire file ,no single file cant be shared )
+
+to sent file from local directory -> remote repository(R.R) we use "push"(entire file ,no single file cant be shared)
+
+
+every time if we create a file it will goes to working directory.
+from W.D -> S.D -> L.D -> R.R.
+
+to create remote repository -> github -> login -> personal details -> repository -> new ->
